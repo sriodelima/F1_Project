@@ -1,4 +1,4 @@
-# F1_Project
+# F1_Project (Ongoing)
 Personnal Project about Formula One Championship
 
 With a dataset availabale on Kaggle, posted by Vopani, I will answer a few question about the probability of winning for a driver or a constructor under some circumstances. For example:
